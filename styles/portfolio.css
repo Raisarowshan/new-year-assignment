@@ -267,7 +267,7 @@ width: 900px;
 height: 65px;
 }
 .portfolio{
-    margin-left:50px;
+    margin: 120px;
     
 }
 .hover{
@@ -278,5 +278,13 @@ height: 65px;
     /* width:100%; */
     /* height: 300px; */
     gap: 10px;
-    margin: 120px;
+    margin: 100px;
+}
+.news{
+    border-radius: 16px;
+background: rgba(186, 146, 146, 0.924);
+width: 1300px;
+height: 600px;
+margin: 120px;
+text-align: center;
 }
