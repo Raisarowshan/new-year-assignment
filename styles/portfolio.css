@@ -66,7 +66,7 @@ text-align: center;
 font-family: 'Inter', sans-serif;
 font-size: 24px;
 font-weight: 500;
-height:0px;
+height:10px;
 /* padding-top: 0px; */
 
 }
@@ -87,7 +87,7 @@ margin-top: 0px;
     height: 500px;
     margin-left: 220px;
 }
-.raisa{
+.deal{
     background: #ffffff;
     width: 1200px;
 height: 750px;
@@ -110,7 +110,7 @@ margin-top:120px;
 }
 .description{
     color: rgba(255, 255, 255, 0.8);
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     font-size: 18px;
     font-weight: 400;
     width:700px ;
@@ -121,7 +121,7 @@ margin-top:120px;
 .btn{
      color: #FFF;
 text-align: center;
-font-family: Inter;
+font-family: 'Inter', sans-serif;
 font-size: 20px;
 font-weight: 700;
 /* text-transform: uppercase; */
@@ -178,7 +178,7 @@ padding: 130px;
 }
 .para{
 color: rgba(7, 2, 17, 0.60);
-font-family: Inter;
+font-family: 'Inter', sans-serif;
 font-size: 20px;
 font-weight: 400;
 line-height: 32px; 
@@ -188,7 +188,7 @@ height: 130px;
 }
 .para2{
     color: rgba(7, 2, 17, 0.60);
-font-family: Inter;
+    font-family: 'Inter', sans-serif;
 font-size: 20px;
 font-weight: 400;
 line-height: 32px; 
@@ -208,7 +208,7 @@ height: 60px;
 }
 #year{
 color: #F00;
-font-family: Inter;
+font-family: 'Inter', sans-serif;
 font-size: 48px;
 font-weight: 700;
 width:130px ;
@@ -243,9 +243,30 @@ padding:40px;
 height:140px;
 
 }
+.functional{
+    color: #070211;
+font-size: 20px;
+font-weight: 500;
+text-align: center;
+}
+.fifty{
+font-size: 60px;
+font-weight: 900;
+text-align: center;
+}
+.sale{
+    color: #F00;
+}
+.wish{
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-size: 20px;
+font-weight: 500;
+line-height: 32px;
+}
 .gift{
     color: #F00;
-font-family: Inter;
+    font-family: 'Inter', sans-serif;
 font-size: 30px;
 font-weight: 500;
 line-height: normal;
@@ -261,7 +282,7 @@ height: 60px;
 }
 .para3{
  color: rgba(7, 2, 17, 0.60);
-font-family: Inter;
+ font-family: 'Inter', sans-serif;
 font-size: 20px;
 font-weight: 400;
 line-height: 32px; 
@@ -270,7 +291,7 @@ height: 65px;
 }
 .portfolio{
     margin: 120px;
-    
+    margin-top: 30px;
 }
 .hover{
     display: flex;
@@ -281,7 +302,6 @@ height: 65px;
     /* height: 300px; */
     gap: 10px;
     margin: 100px;
-    hover
 }
 .news{
     border-radius: 16px;
@@ -310,7 +330,7 @@ text-transform: capitalize;
 .para4{
     color: rgba(7, 2, 17, 0.60);
 text-align: center;
-font-family: Inter;
+font-family: 'Inter', sans-serif;
 font-size: 20px;
 font-weight: 400;
 line-height: 32px; /* 160% */
