@@ -348,13 +348,13 @@ input[type="submit"]:hover
 .footer{
     background: #070211;
     width: 1200px;
-    height: 400px;
+    height: 350px;
     margin: 100px;
 }
 .foot-1{
     display: flex;
     color: #FFFFFC;
-    font-size: 25px;
+    /* font-size: 16px; */
     /* margin-left: 300px; */
     /* margin-right: 300px; */
     /* justify-content:space-between; */
@@ -373,6 +373,7 @@ input[type="submit"]:hover
 .foot-2{
     margin-left: 350px;
     margin-top: 30px;
+    margin-bottom: 30px;
     width: 60px;
     height: 60px;
     display: flex;
@@ -384,5 +385,10 @@ input[type="submit"]:hover
     justify-content: space-between;
     margin-left: 150px;
     margin-right: 350px;
-    font-size: 25px;
+    font-size: 20px;
+}
+hr{
+    border: none;
+    background: rgb(35, 33, 33);
+    height: 1px;
 }
