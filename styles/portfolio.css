@@ -279,12 +279,69 @@ height: 65px;
     /* height: 300px; */
     gap: 10px;
     margin: 100px;
+    hover
 }
 .news{
     border-radius: 16px;
-background: rgba(186, 146, 146, 0.924);
-width: 1300px;
-height: 600px;
-margin: 120px;
+background: rgba(254, 220, 220, 0.924);
+width:1000px;
+height:350px;
+/* margin: 120px; */
 text-align: center;
+margin:100px;
+padding: 100px;
+padding-top: 20px;
+
+}
+#news-pic{
+    width: 100px;
+    height: 100px;
+}
+.subscribe{
+    color: #070211;
+/* text-align: center; */
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+text-transform: capitalize;
+}
+.para4{
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+form{
+    position: relative;
+    display: inline-block;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+input[type="text"]
+{
+    background: #FFF;
+    width: 400px;
+height: 60px;
+border: none;
+padding: 0 25px;
+font-size: 20px;
+/* border-radius: 25px; */
+}
+input[type="submit"]
+{
+    position: relative;
+    left: -5px;
+    border-radius: 0 25px 25px 0;
+    width:200px ;
+    height: 60px;
+    border: none;
+    background: #F00;
+    font-size: 25px;
+    color: #FFF;
+}
+input[type="submit"]:hover
+{
+    background: #690B02;
 }
