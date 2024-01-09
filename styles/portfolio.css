@@ -345,3 +345,44 @@ input[type="submit"]:hover
 {
     background: #690B02;
 }
+.footer{
+    background: #070211;
+    width: 1200px;
+    height: 400px;
+    margin: 100px;
+}
+.foot-1{
+    display: flex;
+    color: #FFFFFC;
+    font-size: 25px;
+    /* margin-left: 300px; */
+    /* margin-right: 300px; */
+    /* justify-content:space-between; */
+}
+.icon{
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right: 5px;
+}
+.address{
+    margin-left: 150px;
+}
+.number{
+    margin-right: 400px;
+}
+.foot-2{
+    margin-left: 350px;
+    margin-top: 30px;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    gap: 20px;
+}
+.foot-3{
+    color: #FFF;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-right: 350px;
+    font-size: 25px;
+}
