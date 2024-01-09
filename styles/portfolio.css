@@ -142,9 +142,11 @@ margin-left: 90px;
     padding-top: 30px;
 }
 #grad{
-    background:radial-gradient(50% 50% at 50% 50%, #690B02 27%, #8F4941 39%, #B18079 51%, #CDADA8 62%, #E3D1CD 73%, #F2EAE7 84%, #FCFAF6 93%, #FFFFFC 100%)
-    background-blend-mode: multiply;
-      mix-blend-mode: multiply;
+    /* background:radial-gradient(50% 50% at 50% 50%, #690B02 27%, #8F4941 39%, #B18079 51%, #CDADA8 62%, #E3D1CD 73%, #F2EAE7 84%, #FCFAF6 93%, #FFFFFC 100%) */
+    /* background-blend-mode: multiply; */
+      /* mix-blend-mode: multiply; */
+      height: 500px;
+      margin-top: 50px;
 
 }
 .row{
